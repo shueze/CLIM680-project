@@ -4,4 +4,4 @@ This is in line with previous work finding PM2.5 to be about half of PM10, and P
 ![animated_PM10](https://user-images.githubusercontent.com/49365141/196006735-c85e841c-c1e1-4a40-8028-1c158461d8d9.gif)
 
 
-[Proposal](https://github.com/shueze/CLIM680-project/blob/main/proposal.md)
+[Proposal](https://shueze.github.io/CLIM680-project/proposal)
