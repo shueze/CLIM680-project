@@ -1,6 +1,4 @@
-(layout: page)
-(title: "proposal")
-(permalink: /proposal)
+
 
 ## Proposal
 
