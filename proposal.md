@@ -1,6 +1,6 @@
-layout: page
-title: "proposal"
-permalink: /proposal
+(layout: page)
+(title: "proposal")
+(permalink: /proposal)
 
 ## Proposal
 
