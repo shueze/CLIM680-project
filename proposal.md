@@ -8,7 +8,7 @@ To learn more about the characteristics of DS and to evaluate model predicting a
 
 
 ### Data
-CMAQ(Community Multiscale Air Quality Modeling System) output data. CMAQ ingests emissions and meteorology to predict spatial and temporal variations of chemical components such as PM2.5, O3, NO2, and their precursors (Byun and Schere, 2006; Luecken et al., 2019). The model has a 12 km horizontal resolution over the Continental United States (CONUS) region and its surrounding areas. The dimension of this dataset is 24 timesteps x 35 layers x 265 rows x 442 columns.
+CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingests emissions and meteorology to predict spatial and temporal variations of chemical components such as PM2.5, O3, NO2, and their precursors (Byun and Schere, 2006; Luecken et al., 2019). The model has a 12 km horizontal resolution over the Continental United States (CONUS) region and its surrounding areas. The dimension of this dataset is 24 timesteps x 35 layers x 265 rows x 442 columns.
 
 ### Things I might do
 1. correlation between PM2.5 and PM10;
