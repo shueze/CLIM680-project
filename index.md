@@ -6,6 +6,7 @@ PM10 : inhalable particles, with diameters that are generally 10 micrometers and
 PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
 
 ![Screen Shot 2022-11-08 at 13 24 03](https://user-images.githubusercontent.com/49365141/200650716-d2d5b395-9cfb-4d87-844a-7675c4eb8104.png)
+
 high value:
 low  value:
 
