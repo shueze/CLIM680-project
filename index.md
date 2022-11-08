@@ -4,6 +4,12 @@
 
 PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller;
 PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
+
+EST time zone offset is UTC-05.
+So the first row: evening (5pm to 2am est);
+the second row: morning   (3am to 10am est);
+the third row: afternoon  (11am to 18pm est).
+
 ![Screen Shot 2022-11-08 at 14 34 40](https://user-images.githubusercontent.com/49365141/200658502-d2a19870-f594-4a5b-acad-357bc0367663.png)
 
 ![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png)
