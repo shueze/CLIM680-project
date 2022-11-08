@@ -25,8 +25,8 @@ the third row: afternoon  (11am to 18pm est).
 ![Screen Shot 2022-11-08 at 14 43 39](https://user-images.githubusercontent.com/49365141/200660143-65e85fc5-cf4a-4d8e-8e1c-a0cb6ca073d5.png)
 
 
-high value:
-low  value:
+high PM2.5/PM10 value: indicator for PM from local resources;
+low  Pm2.5/PM10 value: indictor for PM from transmission.
 
 
 
