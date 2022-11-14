@@ -1,14 +1,14 @@
 ## Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US
 
-[Proposal](https://shueze.github.io/CLIM680-project/proposal)
+[Proposal](https://shueze.github.io/CLIM680-project/proposal)  
 
-PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller;
-PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
+PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller;  
+PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.  
 
-EST time zone offset is UTC-05.
-So the first row: evening (5pm to 2am est);
-the second row: morning   (3am to 10am est);
-the third row: afternoon  (11am to 18pm est).
+EST time zone offset is UTC-05.  
+So the first row: evening (5pm to 2am est);  
+the second row: morning   (3am to 10am est);  
+the third row: afternoon  (11am to 18pm est).  
 
 ![Screen Shot 2022-11-08 at 14 34 40](https://user-images.githubusercontent.com/49365141/200658502-d2a19870-f594-4a5b-acad-357bc0367663.png)
 
@@ -25,7 +25,7 @@ the third row: afternoon  (11am to 18pm est).
 ![Screen Shot 2022-11-08 at 14 43 39](https://user-images.githubusercontent.com/49365141/200660143-65e85fc5-cf4a-4d8e-8e1c-a0cb6ca073d5.png)
 
 
-high PM2.5/PM10 value: indicator for PM from local resources;
+high PM2.5/PM10 value: indicator for PM from local resources;  
 low  Pm2.5/PM10 value: indictor for PM from transmission.
 
 
