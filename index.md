@@ -4,25 +4,19 @@ Who's secretly compromising your health: an Introduction to Particulate Matter (
 
 [Proposal](https://shueze.github.io/CLIM680-project/proposal)   
 
-### **<font face="Times New Roman" >  
-Introduction 
-</font>**  
+### **<font face="Times New Roman" >  Introduction </font>**  
 
 <font face="Times New Roman" >  
 Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10(with diameter generally 10mm and smaller) and PM2.5(with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ(The Community Multiscale Air Quality Modeling System), one of the most commonly used air quality models. 
 </font>  
 
-### **<font face="Times New Roman" >  
-Data 
-</font>**  
+### **<font face="Times New Roman" >  Data </font>**  
 
 <font face="Times New Roman" >  
 CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingests emissions and meteorology to predict spatial and temporal variations of chemical components such as PM2.5, O3, NO2, and their precursors (Byun and Schere, 2006; Luecken et al., 2019). The model has a 12 km horizontal resolution over the Continental United States (CONUS) region and its surrounding areas. The dimension of this dataset is 24 timesteps x 35 layers x 265 rows x 442 columns.  
 </font>
 
-### **<font face="Times New Roman" >  
-Results  
-</font>**  
+### **<font face="Times New Roman" >  Results  </font>**  
 
 <font face="Times New Roman" > 
 EST time zone offset is UTC-05.  
