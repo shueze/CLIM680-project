@@ -1,10 +1,10 @@
-## Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US
+## font face="Times New Roman" > Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US </font>
 
 [Proposal](https://shueze.github.io/CLIM680-project/proposal)   
 
 ### **<font face="Times New Roman" > Introduction </font>**  
 
-<font face="Times New Roman" > Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10(with diameter generally 10mm and smaller) and PM2.5(with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ(The Community Multiscale Air Quality Modeling System), one of the most common air quality models. </font>  
+<font face="Times New Roman" > Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10(with diameter generally 10mm and smaller) and PM2.5(with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ(The Community Multiscale Air Quality Modeling System), one of the most commonly used air quality models. </font>  
 
   
 ### **<font face="Times New Roman" > Data </font>**  
