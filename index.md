@@ -11,10 +11,12 @@
 <font face="Times New Roman" > CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingests emissions and meteorology to predict spatial and temporal variations of chemical components such as PM2.5, O3, NO2, and their precursors (Byun and Schere, 2006; Luecken et al., 2019). The model has a 12 km horizontal resolution over the Continental United States (CONUS) region and its surrounding areas. The dimension of this dataset is 24 timesteps x 35 layers x 265 rows x 442 columns. </font>
 
 ### **<font face="Times New Roman" > Results </font>**  
+<font face="Times New Roman" > 
 EST time zone offset is UTC-05.  
 So the first row: evening (5pm to 2am est);  
 the second row: morning   (3am to 10am est);  
 the third row: afternoon  (11am to 18pm est).  
+</font>
 
 ![Screen Shot 2022-11-08 at 14 34 40](https://user-images.githubusercontent.com/49365141/200658502-d2a19870-f594-4a5b-acad-357bc0367663.png)
 
