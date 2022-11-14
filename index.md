@@ -1,6 +1,4 @@
-#write{ 
-       max-width:  660px; /* 原为860px; */
-}
+
 
 ## <font face="Times New Roman" >  Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US </font>
 
