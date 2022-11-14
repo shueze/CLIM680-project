@@ -18,6 +18,8 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 
 ### **<font face="Times New Roman" >  Results  </font>**  
 
+#### <font face="Times New Roman" >  Diurnal Mean  </font>
+
 <font face="Times New Roman" > 
 EST time zone offset is UTC-05.  
 So the first row: evening (5pm to 2am est);  
