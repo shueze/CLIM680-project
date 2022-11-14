@@ -25,7 +25,8 @@ the second row: morning   (3am to 10am est);
 the third row: afternoon  (11am to 18pm est).  
 </font>
 
-![Screen Shot 2022-11-08 at 14 34 40](https://user-images.githubusercontent.com/49365141/200658502-d2a19870-f594-4a5b-acad-357bc0367663.png)
+![Screen Shot 2022-11-14 at 16 29 16](https://user-images.githubusercontent.com/49365141/201769533-1c47b1dd-18d0-4998-9eca-8289ae314da7.png)
+
 
 ![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png)
 
