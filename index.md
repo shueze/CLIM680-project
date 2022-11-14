@@ -1,8 +1,8 @@
 ## Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US
-### <font face="Times New Roman" >Introduction</font>  
-Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere.  
+### Introduction
+<font face="Times New Roman" >Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere.  </font>  
 
-<font face="Times New Roman" >fewwvwvw</font>  
+
 
 
 Dust storms(DS) have a large impact on natural environment, economy, and human health. PM10 and PM2.5 are the two major factors of DS. To learn more about the characteristics of DS and to evaluate model predicting ability of DS, PM10 and PM2.5 of CMAQ output are plotted. I'll look into the relation between PM10 and PM2.5, and further assess the model accuarcy using obeservational data.  
