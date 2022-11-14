@@ -1,6 +1,6 @@
 ## Who's secretly compromising your health: an Introduction to Particulate Matter (PM) in the US
 ### Introduction
-<font face="Times New Roman" >Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere.  </font>  
+<font face="Times New Roman" >Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10(with diameter generally 10mm and smaller) and PM2.5(with diameters generally 2.5mm and smaller). </font>  
 
 
 
@@ -9,7 +9,7 @@ Dust storms(DS) have a large impact on natural environment, economy, and human h
 
 [Proposal](https://shueze.github.io/CLIM680-project/proposal)   
   
-PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller;  
+PM10 : inhalable particles, with ;  
 PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.  
 
 EST time zone offset is UTC-05.  
