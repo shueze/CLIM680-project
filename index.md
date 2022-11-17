@@ -22,9 +22,9 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 
 <font face="Times New Roman" > 
 EST time zone offset is UTC-05.  
-So the first row: evening (5pm to 2am est);  
-the second row: morning   (3am to 10am est);  
-the third row: afternoon  (11am to 18pm est).  
+So the first row: evening (5pm to 2am est);   
+the second row: morning   (3am to 10am est);   
+the third row: afternoon  (11am to 18pm est).   
 </font>
 
 By comparison, we can see that
