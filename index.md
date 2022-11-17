@@ -24,7 +24,7 @@ By comparison, we can see that the PM10 level in July is generally higher than t
 </font>
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
 
-![Screen Shot 2022-11-17 at 14 19 02](https://user-images.githubusercontent.com/49365141/202539108-d1dd25e2-b36d-40fe-a417-358db6373cc7.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-17 at 14 24 02](https://user-images.githubusercontent.com/49365141/202539743-2c2d4281-bd06-4a97-83a8-067e2fd8eda5.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-17 at 14 11 33](https://user-images.githubusercontent.com/49365141/202537388-d73eb911-d9d1-49b0-b0f3-a48b974c7945.png){:height="48%" width="48%"}
 
 #### <font face="Times New Roman" >  Monthly Diurnal Mean  </font>
