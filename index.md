@@ -20,8 +20,7 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
 
-![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png){:height="48%" width="46%"}  
-
+![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png){:height="48%" width="46%"}
 ![Screen Shot 2022-11-17 at 14 11 33](https://user-images.githubusercontent.com/49365141/202537388-d73eb911-d9d1-49b0-b0f3-a48b974c7945.png){:height="48%" width="46%"}
 
 #### <font face="Times New Roman" >  Monthly Diurnal Mean  </font>
