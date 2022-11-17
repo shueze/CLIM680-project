@@ -20,8 +20,8 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 
 <font face="Times New Roman" > 
 By comparison, we can see that the PM10 level in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low.  
+</font>  
 
-</font>
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
 
 ![Screen Shot 2022-11-17 at 14 24 02](https://user-images.githubusercontent.com/49365141/202539743-2c2d4281-bd06-4a97-83a8-067e2fd8eda5.png){:height="48%" width="48%"}
