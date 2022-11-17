@@ -30,7 +30,8 @@ the third row: afternoon  (11am to 18pm est).
   
   
 <font face="Times New Roman" > 
-By comparison, we can see that the PM10 level in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January.  Also, in July, the midwest region has the highest level, while in January, 
+By comparison, we can see that the PM10 level in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low.  
+  
 
 </font>
 
