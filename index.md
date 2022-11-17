@@ -47,14 +47,7 @@ the third row: afternoon  (11am to 18pm est).
 
 
 
-![Screen Shot 2022-11-08 at 14 34 26](https://user-images.githubusercontent.com/49365141/200658514-4d95bef6-2da9-42e7-8bf4-d54b0b610d96.png)
 
-![Screen Shot 2022-11-08 at 14 40 52](https://user-images.githubusercontent.com/49365141/200659713-14bc948d-7efe-460a-bdc7-3c32d0dcaae6.png)
-
-
-![Screen Shot 2022-11-08 at 13 24 03](https://user-images.githubusercontent.com/49365141/200650716-d2d5b395-9cfb-4d87-844a-7675c4eb8104.png)
-
-![Screen Shot 2022-11-08 at 14 43 39](https://user-images.githubusercontent.com/49365141/200660143-65e85fc5-cf4a-4d8e-8e1c-a0cb6ca073d5.png)
 
 
 high PM2.5/PM10 value: indicator for PM from local resources;  
