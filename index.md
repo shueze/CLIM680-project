@@ -26,10 +26,12 @@ EST time zone offset is UTC-05.
 So the first row: evening (5pm to 2am est);   
 the second row: morning   (3am to 10am est);   
 the third row: afternoon  (11am to 18pm est).   
-</font>
-
+</font>. 
+  
+  
 <font face="Times New Roman" > 
-By comparison, we can see that
+By comparison, we can see that the PM10 level in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January.  Also, in July, the midwest region has the highest level, while in January, 
+
 </font>
 
 ![Screen Shot 2022-11-14 at 16 29 16](https://user-images.githubusercontent.com/49365141/201769533-1c47b1dd-18d0-4998-9eca-8289ae314da7.png){:height="48%" width="48%"}
