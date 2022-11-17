@@ -19,8 +19,9 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 ### **<font face="Times New Roman" >  Results  </font>**  
 
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
+![Screen Shot 2022-11-17 at 14 11 33](https://user-images.githubusercontent.com/49365141/202537388-d73eb911-d9d1-49b0-b0f3-a48b974c7945.png){:height="48%" width="48%"}
 
-
+![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png){:height="48%" width="48%"}
 
 #### <font face="Times New Roman" >  Diurnal Mean  </font>
 
@@ -43,7 +44,7 @@ By comparison, we can see that the PM10 level in July is generally higher than t
 ![Screen Shot 2022-11-14 at 16 31 26](https://user-images.githubusercontent.com/49365141/201769987-50c6377c-0cfc-4636-b3b5-c85f55cd8fb0.png){:height="48%" width="48%"}
 
 
-![Screen Shot 2022-11-08 at 14 40 38](https://user-images.githubusercontent.com/49365141/200659680-935e0de1-8eee-4426-94c2-7b479c96f7da.png)
+
 
 
 ![Screen Shot 2022-11-08 at 14 34 26](https://user-images.githubusercontent.com/49365141/200658514-4d95bef6-2da9-42e7-8bf4-d54b0b610d96.png)
