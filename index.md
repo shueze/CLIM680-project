@@ -71,9 +71,9 @@ This is in line with previous work finding PM2.5 to be about half of PM10, and P
 
 
 #### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases  </font>  
-<center>
-![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png){:height="48%" width="48%"}
-</center>
+
+![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png)
+
 
 ![Screen Shot 2022-11-26 at 15 57 49](https://user-images.githubusercontent.com/49365141/204108900-2e3e4612-876e-4027-bb29-9ca710cf0c14.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-26 at 16 00 07](https://user-images.githubusercontent.com/49365141/204108904-7860fcaf-1a1b-438e-a913-fcffba2c2675.png){:height="48%" width="48%"}
