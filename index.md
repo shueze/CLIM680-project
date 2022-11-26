@@ -21,7 +21,7 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
 
 <font face="Times New Roman" > 
-By comparison, we can see that the PM10 level in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low.  
+By comparison betwwen PM10 levels, we can see that the PM10 in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low. Acoording to EPA, the annual healthy standard is 50ug/m3. 
 </font>  
 
 ![Screen Shot 2022-11-26 at 15 22 22](https://user-images.githubusercontent.com/49365141/204107710-fdac5f4a-4aad-4c52-930f-06ee9b57898f.png){:height="48%" width="48%"}
@@ -70,5 +70,9 @@ low  Pm2.5/PM10 value: indictor for PM from transmission.
 This is in line with previous work finding PM2.5 to be about half of PM10, and PM10 being about half of TSP (Wanger and Ganor, 1999).
 
 
+#### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases  </font>  
+![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png)
+![Screen Shot 2022-11-26 at 15 57 49](https://user-images.githubusercontent.com/49365141/204108900-2e3e4612-876e-4027-bb29-9ca710cf0c14.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-26 at 16 00 07](https://user-images.githubusercontent.com/49365141/204108904-7860fcaf-1a1b-438e-a913-fcffba2c2675.png){:height="48%" width="48%"}
 
 
