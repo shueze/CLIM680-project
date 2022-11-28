@@ -45,7 +45,7 @@ Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values high
 <font face="Times New Roman" > 
 The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals (like PM10) get subsidized during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
   
-As is shown in the figures, areas at the edge of the US have higher PM2.5/PM10 ratio than the center region. That implies transmission of PM affect the edges of the US more than the center region, which makes sense physically.  
+As is shown in the figures, areas at the edge of the US have higher PM2.5/PM10 ratio than the center region. That implies transmission of PM affect the edges of the US more than the center region, which makes sense physically.  For the reason why the ratio is higher in January than in July, it might be related to the seasonal variation of surface wind speed.  
 </font>  
 
 
