@@ -33,10 +33,13 @@ PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 val
 Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
 </font>  
 
+
 ![Screen Shot 2022-11-26 at 15 24 34](https://user-images.githubusercontent.com/49365141/204107779-333bdc82-dcf6-4bae-9ba4-dad6091dd3d4.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-26 at 15 24 49](https://user-images.githubusercontent.com/49365141/204107780-76c523f2-1fe2-4003-9b6a-b79646910f07.png){:height="48%" width="48%"}  
 
-The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals(like PM10) get subsidized more easily during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
+<font face="Times New Roman" > 
+The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals (like PM10) get subsidized more easily during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
+</font>  
 
 
 
