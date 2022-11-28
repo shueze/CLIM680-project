@@ -21,7 +21,8 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 #### <font face="Times New Roman" >  Monthly Mean  </font>  
 
 <font face="Times New Roman" > 
-By comparison betwwen PM10 levels, we can see that the PM10 in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low. 
+By comparison betwwen PM10 levels, we can see that the PM10 in July is generally higher than the level in January. While the maximum level in July is over 30ug/m3, the level remains below 20ug/m3 in January. Also, in July, the midwest region has the highest level, while in January, high PM10 locate around midwest to southest region, and the west region's PM10 level is rather low.  
+  
 Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values higher than 50 is hatched with dots.
 </font>  
 
@@ -29,7 +30,8 @@ Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values high
 ![Screen Shot 2022-11-26 at 15 22 41](https://user-images.githubusercontent.com/49365141/204107713-da3b3bec-3947-47ff-8335-380d49cbb112.png){:height="48%" width="48%"}
 
 <font face="Times New Roman" > 
-PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).
+PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
+  
 Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
 </font>  
 
@@ -39,6 +41,8 @@ Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values high
 
 <font face="Times New Roman" > 
 The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals (like PM10) get subsidized more easily during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
+  
+As is shown in the figures, 
 </font>  
 
 
