@@ -30,11 +30,11 @@ Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values high
 ![Screen Shot 2022-11-26 at 15 22 41](https://user-images.githubusercontent.com/49365141/204107713-da3b3bec-3947-47ff-8335-380d49cbb112.png){:height="48%" width="48%"}
 
 <font face="Times New Roman" > 
-* PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
+PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
 </font>    
 
 <font face="Times New Roman" > 
-* Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
+Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
 </font>  
 
 
@@ -43,9 +43,9 @@ Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values high
 ![Screen Shot 2022-11-26 at 15 24 49](https://user-images.githubusercontent.com/49365141/204107780-76c523f2-1fe2-4003-9b6a-b79646910f07.png){:height="48%" width="48%"}  
 
 <font face="Times New Roman" > 
-The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals (like PM10) get subsidized more easily during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
+The ratio between PM2.5 and PM10 shows whether the PM is from local sources or transmitted from other places. That's because heavier particals (like PM10) get subsidized during tranmission. So when the dust is transmitted from other areas, it's characterized with high value of PM2.5/PM10 ratio.  
   
-As is shown in the figures, 
+As is shown in the figures, areas at the edge of the US have higher PM2.5/PM10 ratio than the center region. That implies transmission of PM affect the edges of the US more than the center region, which makes sense physically.  
 </font>  
 
 
@@ -54,7 +54,8 @@ As is shown in the figures,
 
 
 ![Screen Shot 2022-11-27 at 21 04 32](https://user-images.githubusercontent.com/49365141/204176997-06a49def-68e8-42e3-a10d-d9b42e22c284.png){:height="48%" width="48%"}
-![Screen Shot 2022-11-27 at 21 10 21](https://user-images.githubusercontent.com/49365141/204178459-0d2b2606-73a6-42e4-b32c-df9d1d4e05e6.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-28 at 10 14 47](https://user-images.githubusercontent.com/49365141/204313477-80844b88-0a91-4995-b014-62cea2152bb3.png){:height="48%" width="48%"}
+
 
 
 
