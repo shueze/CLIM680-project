@@ -47,7 +47,8 @@ The ratio between PM2.5 and PM10 shows whether the PM is from local sources or t
 
 
 ![Screen Shot 2022-11-27 at 21 04 32](https://user-images.githubusercontent.com/49365141/204176997-06a49def-68e8-42e3-a10d-d9b42e22c284.png){:height="48%" width="48%"}
-![Screen Shot 2022-11-27 at 21 10 36](https://user-images.githubusercontent.com/49365141/204177005-5ca1230b-785e-40ce-ad25-fdef193867d1.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-27 at 21 10 21](https://user-images.githubusercontent.com/49365141/204178459-0d2b2606-73a6-42e4-b32c-df9d1d4e05e6.png){:height="48%" width="48%"}
+
 
 
 
