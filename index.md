@@ -27,7 +27,9 @@ By comparison betwwen PM10 levels, we can see that the PM10 in July is generally
 ![Screen Shot 2022-11-26 at 15 22 22](https://user-images.githubusercontent.com/49365141/204107710-fdac5f4a-4aad-4c52-930f-06ee9b57898f.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-26 at 15 22 41](https://user-images.githubusercontent.com/49365141/204107713-da3b3bec-3947-47ff-8335-380d49cbb112.png){:height="48%" width="48%"}
 
+<font face="Times New Roman" > 
 PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).
+</font>  
 
 ![Screen Shot 2022-11-26 at 15 24 34](https://user-images.githubusercontent.com/49365141/204107779-333bdc82-dcf6-4bae-9ba4-dad6091dd3d4.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-26 at 15 24 49](https://user-images.githubusercontent.com/49365141/204107780-76c523f2-1fe2-4003-9b6a-b79646910f07.png){:height="48%" width="48%"}
