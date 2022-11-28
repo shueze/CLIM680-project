@@ -48,6 +48,8 @@ The ratio between PM2.5 and PM10 shows whether the PM is from local sources or t
 As is shown in the figures, areas at the edge of the US have higher PM2.5/PM10 ratio than the center region. That implies transmission of PM affect the edges of the US more than the center region, which makes sense physically.  For the reason why the ratio is higher in January than in July, it might be related to the seasonal variation of surface wind speed.  
 </font>  
 
+![Screen Shot 2022-11-27 at 21 04 32](https://user-images.githubusercontent.com/49365141/204176997-06a49def-68e8-42e3-a10d-d9b42e22c284.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-28 at 10 14 47](https://user-images.githubusercontent.com/49365141/204313477-80844b88-0a91-4995-b014-62cea2152bb3.png){:height="48%" width="48%"}
 
 #### <font face="Times New Roman" >  Monthly Correlation (July and January) </font>  
 <font face="Times New Roman" > 
@@ -56,13 +58,6 @@ The correlation between PM10 and PM2.5 implies whether they are from the same so
 
 ![Screen Shot 2022-11-27 at 20 30 13](https://user-images.githubusercontent.com/49365141/204314834-3f80fb5f-7705-416d-bdaf-835270267d71.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-27 at 20 36 18](https://user-images.githubusercontent.com/49365141/204314858-5439f2a1-2cf8-485f-b5fc-eb3cb70cf997.png){:height="48%" width="48%"}
-
-
-![Screen Shot 2022-11-27 at 21 04 32](https://user-images.githubusercontent.com/49365141/204176997-06a49def-68e8-42e3-a10d-d9b42e22c284.png){:height="48%" width="48%"}
-![Screen Shot 2022-11-28 at 10 14 47](https://user-images.githubusercontent.com/49365141/204313477-80844b88-0a91-4995-b014-62cea2152bb3.png){:height="48%" width="48%"}
-
-
-
 
 
 
