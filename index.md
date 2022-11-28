@@ -32,7 +32,7 @@ Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values high
 <font face="Times New Roman" > 
 PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
 
-<br\>
+\n
 
 Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
 </font>  
