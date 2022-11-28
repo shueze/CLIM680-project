@@ -50,6 +50,9 @@ As is shown in the figures, areas at the edge of the US have higher PM2.5/PM10 r
 
 
 #### <font face="Times New Roman" >  Monthly Correlation (July and January) </font>  
+<font face="Times New Roman" > 
+The correlation between PM10 and PM2.5 implies whether they are from the same sources. PM10 and PM2.5 with higher correlation are more likely from the same sources. As is shown, most of their correlation coefficient in the US is above 0.9.  
+</font>  
 
 ![Screen Shot 2022-11-27 at 20 30 13](https://user-images.githubusercontent.com/49365141/204314834-3f80fb5f-7705-416d-bdaf-835270267d71.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-27 at 20 36 18](https://user-images.githubusercontent.com/49365141/204314858-5439f2a1-2cf8-485f-b5fc-eb3cb70cf997.png){:height="48%" width="48%"}
