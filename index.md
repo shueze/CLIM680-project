@@ -70,11 +70,15 @@ the second row: morning   (3am to 10am est);
 the third row: afternoon  (11am to 18pm est).   
 </font>  
 
+****
 
+From the plots, we can see that the maximum PM10 level in July is reached at around 5~6 PM in the middle region of the US, the minimum is at arund 5~6 AM. 
+The PM10 level seems to vary less in January than in July, to varify that, I plot the area mean of PM10 (which is also the "Climate Index" I used to do the composites later). 
 
 ![Screen Shot 2022-11-14 at 16 29 16](https://user-images.githubusercontent.com/49365141/201769533-1c47b1dd-18d0-4998-9eca-8289ae314da7.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-14 at 16 31 26](https://user-images.githubusercontent.com/49365141/201769987-50c6377c-0cfc-4636-b3b5-c85f55cd8fb0.png){:height="48%" width="48%"}
 
+![Screen Shot 2022-11-29 at 11 20 31](https://user-images.githubusercontent.com/49365141/204584695-3056cc33-f276-4112-a68f-80697388df30.png)
 
 #### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases of July  </font>  
 
@@ -89,7 +93,7 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 What is intersting is that when I tried to plot the same composite in January, I found that the area mean of PM10 in January varies less than in July. As the figure show, the area mean varies from 7 to 11 ug/m3 in July, whereas it's from 8 to 9 in January. Also, their diurnal maximum and minimum time have differences.  
 </font>  
 
-![Screen Shot 2022-11-29 at 11 20 31](https://user-images.githubusercontent.com/49365141/204584695-3056cc33-f276-4112-a68f-80697388df30.png)
+
 
 
 ### **<font face="Times New Roman" >  Summary  </font>**  
