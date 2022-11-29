@@ -70,27 +70,27 @@ the second row: morning   (3am to 10am est);
 the third row: afternoon  (11am to 18pm est).   
 </font>  
 
-****
-  
-<font face="Times New Roman" > 
-From the plotting, we can see that the PM10 level at the eastern coast is above 20ug/m3 even in Low level composite. Generally, the middle to eastern part of the US and the western coast have higher PM10 levels. With the area mean increasing, PM10 level increases quickly in the middle part of the US up to above 80ug/m3. While in the other areas, the level increases a little or remains on the same level.
-</font>  
 
 
 ![Screen Shot 2022-11-14 at 16 29 16](https://user-images.githubusercontent.com/49365141/201769533-1c47b1dd-18d0-4998-9eca-8289ae314da7.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-14 at 16 31 26](https://user-images.githubusercontent.com/49365141/201769987-50c6377c-0cfc-4636-b3b5-c85f55cd8fb0.png){:height="48%" width="48%"}
 
+
+#### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases of July  </font>  
+
+<font face="Times New Roman" > 
+From the plotting, we can see that the PM10 level at the eastern coast is above 20ug/m3 even in Low level composite. Generally, the middle to eastern part of the US and the western coast have higher PM10 levels. With the area mean increasing, PM10 level increases quickly in the middle part of the US up to above 80ug/m3. While in the other areas, the level increases a little or remains on the same level.
+</font>  
+
 <font face="Times New Roman" > 
 What is intersting is that when I tried to plot the same composite in January, I found that the area mean of PM10 in January varies less than in July. As the figure show, the area mean varies from 7 to 11 ug/m3 in July, whereas it's from 8 to 9 in January. Also, their diurnal maximum and minimum time have differences.  
 </font>  
 
-#### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases of July  </font>  
-
 
 ![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png)
 
-![Screen Shot 2022-11-26 at 15 57 49](https://user-images.githubusercontent.com/49365141/204108900-2e3e4612-876e-4027-bb29-9ca710cf0c14.png){:height="48%" width="48%"}
-![Screen Shot 2022-11-26 at 16 00 07](https://user-images.githubusercontent.com/49365141/204108904-7860fcaf-1a1b-438e-a913-fcffba2c2675.png){:height="48%" width="48%"}
+![Screen Shot 2022-11-29 at 11 20 31](https://user-images.githubusercontent.com/49365141/204584695-3056cc33-f276-4112-a68f-80697388df30.png)
+
 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
