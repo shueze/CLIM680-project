@@ -7,7 +7,7 @@
 ### **<font face="Times New Roman" >  Introduction </font>**  
 
 <font face="Times New Roman" >  
-Particulate Matter (PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10 (with diameter generally 10mm and smaller) and PM2.5 (with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ (The Community Multiscale Air Quality Modeling System), one of the most commonly used air quality models. 
+Particulate Matter (PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10 (with diameter generally 10mm and smaller) and PM2.5 (with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and discuss its seasonal and diurnal evolution . 
 </font>  
 
 ### **<font face="Times New Roman" >  Data </font>**  
@@ -94,7 +94,7 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
 <font face="Times New Roman" > 
-In this study, we learnt that Particulate Matter in the United States is in general under healthy level, but in some regions especaily the middle part, PM level should have more attention from people. Also, PM level varies on different temporal scales, whether seasonally or diurnally. PM transmission affect the edges of the US more than the center region. And Surface winds have impact on the PM level. All in all, don't do cardio outdoors at 5~6 PM in the middle region of the US during summer.
+In this study, we learnt that Particulate Matter in the United States is in general under healthy level, but in some regions especaily the central part, PM level should have more attention from people. Also, PM level varies on different temporal scales, whether seasonally or diurnally. PM transmission affect the edges of the US more than the central region. And Surface winds have impact on the PM level. All in all, don't do cardio outdoors at 5~6 PM in the middle region of the US during summer.
 </font>  
 
 ### **<font face="Times New Roman" >  Codes  </font>**  
