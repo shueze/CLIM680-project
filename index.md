@@ -93,6 +93,10 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
+<font face="Times New Roman" > 
+In this study, we learnt that Particulate Matter in the United States is in general under healthy level, but in some regions especaily the middle part, PM level should have more attention from people. Also, PM level varies on different scales, whether seasonally or diurnally. PM transmission affect the edges of the US more than the center region. And Surface winds have impact on the PM level. 
+</font>  
+
 ### **<font face="Times New Roman" >  Codes  </font>**  
 
 [Climatology](https://github.com/shueze/CLIM680-project/blob/main/Project.ipynb)   
