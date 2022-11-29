@@ -95,7 +95,9 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 
 ### **<font face="Times New Roman" >  Codes  </font>**  
 
-[Proposal](https://shueze.github.io/CLIM680-project/proposal)   
+[Climatology](https://github.com/shueze/CLIM680-project/blob/main/Project.ipynb)   
+[Correlation](https://github.com/shueze/CLIM680-project/blob/main/Correlation.ipynb)   
+[Composites](https://github.com/shueze/clim680/blob/master/Composites.ipynb)   
 
 ### **<font face="Times New Roman" >  References  </font>**  
 
