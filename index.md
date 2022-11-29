@@ -32,7 +32,9 @@ Acoording to EPA, the annual healthy standard is 50ug/m3. Areas with values high
 <font face="Times New Roman" > 
 PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
 </font>    
-
+<font face="Times New Roman" > 
+PM2.5 levels have similar patterns with PM10 levels, with about half of PM10 values. This is in line with previous work of Wanger and Ganor (1999).  
+</font>**
 <font face="Times New Roman" > 
 Acoording to EPA, the annual healthy standard is 15ug/m3. Areas with values higher than 15 is hatched with dots.
 </font>  
@@ -102,6 +104,6 @@ What is intersting is that I also tried to plot the same composite in January. W
 ![Screen Shot 2022-11-26 at 15 57 49](https://user-images.githubusercontent.com/49365141/204108900-2e3e4612-876e-4027-bb29-9ca710cf0c14.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-26 at 16 00 07](https://user-images.githubusercontent.com/49365141/204108904-7860fcaf-1a1b-438e-a913-fcffba2c2675.png){:height="48%" width="48%"}
 
-
+### **<font face="Times New Roman" >  Results  </font>**  
 
 
