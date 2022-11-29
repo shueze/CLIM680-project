@@ -94,7 +94,7 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
 <font face="Times New Roman" > 
-In this study, we learnt that Particulate Matter in the United States is in general under healthy level, but in some regions especaily the middle part, PM level should have more attention from people. Also, PM level varies on different scales, whether seasonally or diurnally. PM transmission affect the edges of the US more than the center region. And Surface winds have impact on the PM level. All in all, don't do cardio outdoors at 5~6 PM in the middle region of the US during summer.
+In this study, we learnt that Particulate Matter in the United States is in general under healthy level, but in some regions especaily the middle part, PM level should have more attention from people. Also, PM level varies on different temporal scales, whether seasonally or diurnally. PM transmission affect the edges of the US more than the center region. And Surface winds have impact on the PM level. All in all, don't do cardio outdoors at 5~6 PM in the middle region of the US during summer.
 </font>  
 
 ### **<font face="Times New Roman" >  Codes  </font>**  
