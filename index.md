@@ -82,7 +82,7 @@ We can see that the area mean varies from 7 to 11 ug/m3 in July, whereas it's fr
 
 ![Screen Shot 2022-11-29 at 11 20 31](https://user-images.githubusercontent.com/49365141/204584695-3056cc33-f276-4112-a68f-80697388df30.png)
 
-#### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases of July  </font>  
+#### <font face="Times New Roman" >  PM10 Composite of different diurnal PM10 level phases in July  </font>  
 
 <font face="Times New Roman" > 
 From the plotting, we can see that the PM10 level at the eastern coast is above 20ug/m3 even in Low level composite. Generally, the middle to eastern part of the US and the western coast have higher PM10 levels. With the area mean increasing, PM10 level increases quickly in the middle part of the US up to above 80ug/m3. While in the other areas, the level increases a little or remains on the same level. 
