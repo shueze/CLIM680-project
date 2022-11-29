@@ -7,7 +7,7 @@
 ### **<font face="Times New Roman" >  Introduction </font>**  
 
 <font face="Times New Roman" >  
-Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10(with diameter generally 10mm and smaller) and PM2.5(with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ(The Community Multiscale Air Quality Modeling System), one of the most commonly used air quality models. 
+Particulate Matter(PM), also known as particle pollution, is a mixture of solid particles and liquid droplets in the atmosphere. The most famous PM are PM10 (with diameter generally 10mm and smaller) and PM2.5 (with diameters generally 2.5mm and smaller). Exposure to PM can pose great risk to our health, causing respiratory and cardiovascular deseases. In this study, we briefly investigate the characteristics of PM distribution and evaluate the model predicting ability of PM by CMAQ (The Community Multiscale Air Quality Modeling System), one of the most commonly used air quality models. 
 </font>  
 
 ### **<font face="Times New Roman" >  Data </font>**  
@@ -71,9 +71,11 @@ the third row: afternoon  (11am to 18pm est).
 </font>  
 
 ****
-
+<font face="Times New Roman" > 
 From the plots, we can see that the maximum PM10 level in July is reached at around 5~6 PM in the middle region of the US, the minimum is at arund 5~6 AM. 
-The PM10 level seems to vary less in January than in July, to varify that, I plot the area mean of PM10 (which is also the "Climate Index" I used to do the composites later). 
+The PM10 level seems to vary less in January than in July, to varify that, I plot the area mean of PM10 (which is also the "Climate Index" I will use to do the composites later in this project). 
+We can see that the area mean varies from 7 to 11 ug/m3 in July, whereas it's from 8 to 9 in January. Also, their diurnal maximum and minimum time have differences.  
+</font>  
 
 ![Screen Shot 2022-11-14 at 16 29 16](https://user-images.githubusercontent.com/49365141/201769533-1c47b1dd-18d0-4998-9eca-8289ae314da7.png){:height="48%" width="48%"}
 ![Screen Shot 2022-11-14 at 16 31 26](https://user-images.githubusercontent.com/49365141/201769987-50c6377c-0cfc-4636-b3b5-c85f55cd8fb0.png){:height="48%" width="48%"}
@@ -86,16 +88,11 @@ The PM10 level seems to vary less in January than in July, to varify that, I plo
 From the plotting, we can see that the PM10 level at the eastern coast is above 20ug/m3 even in Low level composite. Generally, the middle to eastern part of the US and the western coast have higher PM10 levels. With the area mean increasing, PM10 level increases quickly in the middle part of the US up to above 80ug/m3. While in the other areas, the level increases a little or remains on the same level.
 </font>  
 
-
 ![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png)
-
-<font face="Times New Roman" > 
-What is intersting is that when I tried to plot the same composite in January, I found that the area mean of PM10 in January varies less than in July. As the figure show, the area mean varies from 7 to 11 ug/m3 in July, whereas it's from 8 to 9 in January. Also, their diurnal maximum and minimum time have differences.  
-</font>  
-
-
 
 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
+### **<font face="Times New Roman" >  Codes  </font>**  
 
+### **<font face="Times New Roman" >  References  </font>**  
