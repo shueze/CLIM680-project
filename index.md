@@ -106,14 +106,14 @@ In this study, we learnt that Particulate Matter in the United States is in gene
 ### **<font face="Times New Roman" >  References  </font>**  
 
 <font face="Times New Roman" > 
-Byun, D. W., & Schere, K. L. (2006). Review of the governing equations, computational algorithms, and other components of the models-3 community multiscale air quality (CMAQ) modeling system. Applied Mechanics Reviews, 59, 51-77. http://dx.doi.org/10.1115/1.2128636.  
+Byun, D. W., & Schere, K. L. (2006). Review of the governing equations, computational algorithms, and other components of the models-3 community multiscale air quality (CMAQ) modeling system. Applied Mechanics Reviews, 59, 51-77. http://dx.doi.org/10.1115/1.2128636.   
   
-****
+****  
   
 Ganor, E., Stupp, A. & Alpert, P. A method to determine the effect of mineral dust aerosols on air quality. Atmospheric Environment 43, 5463–5468 (2009).
   
-****
+****  
   
-Luecken DJ, Yarwood G, Hutzell WT. Multipollutant modeling of ozone, reactive nitrogen and HAPs across the continental US with CMAQ-CB6. Atmos Environ (1994). 2019 Mar 15;201:62-72. doi: 10.1016/j.atmosenv.2018.11.060. PMID: 33981178; PMCID: PMC8112378.
+Luecken DJ, Yarwood G, Hutzell WT. Multipollutant modeling of ozone, reactive nitrogen and HAPs across the continental US with CMAQ-CB6. Atmos Environ (1994). 2019 Mar 15;201:62-72. doi: 10.1016/j.atmosenv.2018.11.060. PMID: 33981178; PMCID: PMC8112378.  
 
 </font>  
