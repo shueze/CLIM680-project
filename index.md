@@ -16,6 +16,12 @@ Particulate Matter (PM), also known as particle pollution, is a mixture of solid
 CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingests emissions and meteorology to predict spatial and temporal variations of chemical components such as PM2.5, O3, NO2, and their precursors (Byun and Schere, 2006; Luecken et al., 2019). The model has a 12 km horizontal resolution over the Continental United States (CONUS) region and its surrounding areas. The dimension of this dataset is 24 timesteps x 35 layers x 265 rows x 442 columns.  
 </font>
 
+### **<font face="Times New Roman" >  Environment </font>**  
+
+<font face="Times New Roman" >  
+The environment settings used in this project have been provided in the new_clim_data.yml file.
+</font>
+
 ### **<font face="Times New Roman" >  Results  </font>**  
 
 #### <font face="Times New Roman" >  Monthly Mean (July and January) </font>  
