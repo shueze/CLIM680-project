@@ -98,6 +98,10 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 
 #### <font face="Times New Roman" >  PM10 Composite differences between High and Medium diurnal PM10 level with 99% significance test in July  </font>  
 
+<font face="Times New Roman" > 
+As the figure shows, the differences are significant across most of the mid-to-east region of the US, while in the western part, the significance is not as strong. So PM10 level increases rather quicklier in the mid-to-east region than in the eastern part of the US from medium to high composite in July. 
+  
+</font>  
 ![Screen Shot 2022-12-12 at 16 36 48](https://user-images.githubusercontent.com/49365141/207159949-268274e0-90cf-4cda-ac2d-0d47d5bb0838.png)
 
 
