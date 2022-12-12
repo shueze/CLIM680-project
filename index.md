@@ -125,9 +125,12 @@ In this study, we learnt that Particulate Matter in the United States is in gene
 
 ### **<font face="Times New Roman" >  Codes  </font>**  
 
-[Climatology](https://github.com/shueze/CLIM680-project/blob/main/Project.ipynb)   
+[Climatology](https://github.com/shueze/CLIM680-project/blob/main/Project.ipynb)
+It contains codes to plot monthly mean and monthly diurnal mean. 
 [Correlation](https://github.com/shueze/CLIM680-project/blob/main/Correlation.ipynb)   
+It contains codes to plot correlation. 
 [Composites](https://github.com/shueze/CLIM680-project/blob/main/Composites.ipynb)   
+It contains codes to plot composites and composite differences with significance test. 
 
 ### **<font face="Times New Roman" >  References  </font>**  
 
