@@ -96,6 +96,11 @@ From the plotting, we can see that the PM10 level at the eastern coast is above 
 
 ![download](https://user-images.githubusercontent.com/49365141/204108887-9515b442-7be5-43e8-aaac-fc0e7246a335.png)
 
+#### <font face="Times New Roman" >  PM10 Composite differences between High and Medium diurnal PM10 level with 99% significance test in July  </font>  
+
+![Screen Shot 2022-12-12 at 16 36 48](https://user-images.githubusercontent.com/49365141/207159949-268274e0-90cf-4cda-ac2d-0d47d5bb0838.png)
+
+
 
 ### **<font face="Times New Roman" >  Summary  </font>**  
 
