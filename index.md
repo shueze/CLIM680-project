@@ -19,8 +19,8 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 ### **<font face="Times New Roman" >  Environment </font>**  
 
 <font face="Times New Roman" >  
-The environment settings used in this project have been provided in the new_clim_data.yml file. 
-[new_clim_data.yml](https://github.com/shueze/CLIM680-project/blob/main/new_clim_data.yml) 
+The environment settings used in this project have been provided in the new_clim_data.yml file.  
+[new_clim_data.yml] (https://github.com/shueze/CLIM680-project/blob/main/new_clim_data.yml) 
 
 </font>
 
@@ -28,7 +28,7 @@ The environment settings used in this project have been provided in the new_clim
 
 <font face="Times New Roman" >  
 In the project, I created two functions to help me plot. One is to do basic plotting settings including choosing lat/lon ranges, adding coastlines, stateslines and gridlines. The other one is to define the xticks/ytickks for longitude/latitude. 
-[Functions](https://github.com/shueze/CLIM680-project/blob/main/Functions.ipynb) 
+[Functions] (https://github.com/shueze/CLIM680-project/blob/main/Functions.ipynb) 
   
 </font>
 
