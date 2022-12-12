@@ -19,7 +19,7 @@ CMAQ (Community Multiscale Air Quality Modeling System) output data. CMAQ ingest
 ### **<font face="Times New Roman" >  Environment </font>**  
 
 <font face="Times New Roman" >  
-The environment settings used in this project have been provided in the new_clim_data.yml file.
+The environment settings used in this project have been provided in the [new_clim_data.yml](https://github.com/shueze/CLIM680-project/blob/main/new_clim_data.yml) file.
 </font>
 
 ### **<font face="Times New Roman" >  Results  </font>**  
